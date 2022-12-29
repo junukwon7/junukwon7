@@ -2,7 +2,9 @@
 
 My name is JUNU KWON / 권준우. Call me Junu.
 
-Currently working on Neural Network Compression, Computer Vision, and Algorithm(PS)
+Currently working as a ML Engineer at [FriendliAi](https://friendli.ai/)
+
+Interest: Neural Network Compression, Computer Vision, and Algorithm(PS)
 
 Visit me at [cslab.or.kr](https://cslab.or.kr/junukwon7/)!
 
@@ -10,11 +12,18 @@ Visit me at [cslab.or.kr](https://cslab.or.kr/junukwon7/)!
 Education
 ---
 * 2022.3.2. ~ &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;College of Liberal Studies, Seoul National University　　　　　
-* 2019.3.2. ~ 2022.1.7.&#160;&#160;&#160;&#160;Gyeonggi Science High School　　　　　　　
+* 2019.3.2. ~ 2022.1.7.&#160;&#160;&#160;&#160;Gyeonggi Science High School
+
+Education
+---
+* Presidential Science Scholarship (20th)
+* National Science & Technology Scholarship (Renounced due to the Presidential Science Scholarsihp)
+* Korea Olympiad in Informatics (2021), 2nd Round, Bronze
+* Korea Olympiad in Informatics (2021), 1st Round, Silver
 
 Works
 ---
-* DevOps Engineer at [FriendliAi](https://friendli.ai/)
+* ML Engineer at [FriendliAi](https://friendli.ai/)
 * Software Engineer at [서울대학교 정보화본부](https://ist.snu.ac.kr/)(Service Contract Worker)
 * [cslab.gs.hs.kr](https://github.com/gshslinuxintro/cslab.gs.hs.kr), GSHS Research Server / Linux User Group page
 * [PyTorch-YOLOv3](https://github.com/junukwon7/PyTorch-YOLOv3), Graduation thesis code
