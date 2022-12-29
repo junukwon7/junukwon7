@@ -14,7 +14,7 @@ Education
 * 2022.3.2. ~ &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;College of Liberal Studies, Seoul National University　　　　　
 * 2019.3.2. ~ 2022.1.7.&#160;&#160;&#160;&#160;Gyeonggi Science High School
 
-Education
+Achievements
 ---
 * Presidential Science Scholarship (20th)
 * National Science & Technology Scholarship (Renounced due to the Presidential Science Scholarsihp)
