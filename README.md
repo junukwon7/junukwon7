@@ -2,7 +2,7 @@
 
 My name is JUNU KWON / 권준우. Call me Junu.
 
-Currently working as a ML Engineer at [FriendliAi](https://friendli.ai/)
+Currently working as a ML Engineer at [FriendliAI](https://friendli.ai/)
 
 Interest: Neural Network Compression, Computer Vision, and Algorithm(PS)
 
