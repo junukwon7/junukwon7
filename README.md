@@ -4,7 +4,7 @@ My name is JUNU KWON / 권준우. Call me Junu.
 
 Currently working as a ML Engineer at [FriendliAI](https://friendli.ai/)
 
-Interest: Neural Network Compression, Computer Vision, and Algorithm(PS)
+Also an undergraduate student, CSE major, class of '26
 
 Visit me at [cslab.or.kr](https://cslab.or.kr/junukwon7/)!
 
