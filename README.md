@@ -26,11 +26,11 @@ Works
 * ML Engineer at [FriendliAI](https://friendli.ai/)
 * Software Engineer at [서울대학교 정보화본부](https://ist.snu.ac.kr/)(Service Contract Worker)
 * [cslab.gs.hs.kr](https://github.com/gshslinuxintro/cslab.gs.hs.kr), GSHS Research Server / Linux User Group page
-* [PyTorch-YOLOv3](https://github.com/junukwon7/PyTorch-YOLOv3), Graduation thesis code
+* [PyTorch-YOLOv3](https://github.com/junukwon7/PyTorch-YOLOv3), Graduation Thesis Code
 * [An-Introduction-to-Linux](https://github.com/gshslinuxintro/An-Introduction-to-Linux), Documentations for researchers using linux servers.
 * [latex.gs.hs.kr](https://github.com/gshslatexintro/latex.gs.hs.kr), GSHS LaTeX Society page.
 * [gshs-format](https://github.com/gshslatexintro/gshs-format), GSHS LaTeX formats
-* [Excelerator](https://github.com/junukwon7/Excelerator), A PNG-to-XLXS transferer based on Python
+* [Excelerator](https://github.com/junukwon7/Excelerator), A PNG-to-XLSX transferer based on Python
 * [Camo](https://github.com/junukwon7/Camo), A mullti-scale camouflage generator based on C/C++ and quantization
 * [ServerTools](https://github.com/junukwon7/ServerTools), A server management tool based on JavaFX
 * [CSL](https://github.com/melongist/CSL), Various tools(CMS, HUSTOJ, DOMJUDGE...) for informatics instructors
