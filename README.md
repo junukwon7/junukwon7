@@ -6,7 +6,7 @@ Currently working as a ML Engineer at [FriendliAI](https://friendli.ai/)
 
 Also an undergraduate student, CSE major, class of '26
 
-Visit me at [cslab.or.kr](https://cslab.or.kr/junukwon7/)!
+Visit me at [cslab.snu.ac.kr](https://cslab.snu.ac.kr/junukwon7/)!
 
 
 Education
