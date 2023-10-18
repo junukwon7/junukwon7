@@ -17,7 +17,7 @@ Education
 Achievements
 ---
 * Presidential Science Scholarship (20th)
-* National Science & Technology Scholarship (Renounced due to the Presidential Science Scholarship)
+* National Science & Technology Scholarship (Renounced due to the PSS above)
 * Korea Olympiad in Informatics (2021), 2nd Round, Bronze
 * Korea Olympiad in Informatics (2021), 1st Round, Silver
 
