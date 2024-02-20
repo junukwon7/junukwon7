@@ -51,8 +51,6 @@ Groups
 
 ---
 
-[![Junu Kwon's GitHub stats](https://github-readme-stats.vercel.app/api?username=junukwon7)](https://github.com/junukwon7)
-
 Contact me at: [junukwon7@gmail.com](mailto:junukwon7@gmail.com)
 
 
