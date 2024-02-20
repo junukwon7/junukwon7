@@ -51,6 +51,6 @@ Groups
 
 ---
 
-Contact me at: [junukwon7@gmail.com](mailto:junukwon7@gmail.com)
+Contact me at: [junukwon@snu.ac.kr](mailto:junukwon@snu.ac.kr)
 
 
