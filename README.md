@@ -4,7 +4,7 @@ My name is JUNU KWON / 권준우. Call me Junu.
 
 Currently working as a ML Engineer at [FriendliAI](https://friendli.ai/)
 
-I'm also an undergraduate student, CSE major, class of '26
+Undergraduate student, CSE major, class of '26
 
 
 Education
