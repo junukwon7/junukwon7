@@ -4,9 +4,7 @@ My name is JUNU KWON / 권준우. Call me Junu.
 
 Currently working as a ML Engineer at [FriendliAI](https://friendli.ai/)
 
-Also an undergraduate student, CSE major, class of '26
-
-Visit me at [cslab.snu.ac.kr](https://cslab.snu.ac.kr/junukwon7/)!
+I'm also an undergraduate student, CSE major, class of '26
 
 
 Education
@@ -18,7 +16,7 @@ Achievements
 ---
 * Presidential Science Scholarship (20th)
 * National Science & Technology Scholarship (2022)
-* Seoul National University Semiconductor Scholarship (2023)
+* Seoul National University Semiconductor Scholarship (2024)
 * Korea Olympiad in Informatics (2021), 2nd Round, Bronze
 * Korea Olympiad in Informatics (2021), 1st Round, Silver
 
