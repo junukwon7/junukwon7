@@ -19,10 +19,11 @@ Achievements
 * Seoul National University Semiconductor Scholarship (2024)
 * Korea Olympiad in Informatics (2021), 2nd Round, Bronze
 * Korea Olympiad in Informatics (2021), 1st Round, Silver
+* USA Computing Olympiad Gold
 
 Works
 ---
-* ML Engineer at [FriendliAI](https://friendli.ai/)
+* Software Engineer at [FriendliAI](https://friendli.ai/)
 * Software Engineer at [서울대학교 정보화본부](https://ist.snu.ac.kr/)(Service Contract Worker)
 * [cslab.gs.hs.kr](https://github.com/gshslinuxintro/cslab.gs.hs.kr), GSHS Research Server / Linux User Group page
 * [PyTorch-YOLOv3](https://github.com/junukwon7/PyTorch-YOLOv3), Graduation Thesis Code
@@ -36,16 +37,6 @@ Works
 * [cms-dev](https://github.com/junukwon7/cms), A famous contest management system used by IOI
 * [vj4](https://github.com/vijos/vj4), Online judge service, translator
 * [Hydro](https://github.com/hydro-dev/Hydro), VJ4-based online-judge, translator
-
-
-Groups
----
-* [SNUCSE Bacchus](https://github.com/bacchus-snu)
-* [GSHS Latex Intro](https://github.com/gshslatexintro)
-* [GSHS Linux Intro](https://github.com/gshslinuxintro)
-* [GSHS OJ(New Koistudy)](https://github.com/gshsoj)
-
-
 
 ---
 
