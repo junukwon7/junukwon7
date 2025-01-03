@@ -1,8 +1,6 @@
 # Hello, 안녕하세요 👋
 
-I'm Junu Kwon.
-
-Currently working as a SWE at [FriendliAI](https://friendli.ai/)
+SWE at [FriendliAI](https://friendli.ai/)
 
 
 Education
