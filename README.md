@@ -1,6 +1,6 @@
 # Hello, 안녕하세요 👋
 
-My name is JUNU KWON / 권준우. Call me Junu.
+I'm Junu Kwon.
 
 Currently working as a SWE at [FriendliAI](https://friendli.ai/)
 
