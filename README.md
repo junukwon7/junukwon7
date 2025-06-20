@@ -1,7 +1,12 @@
 # Hello, 안녕하세요 👋
 
-SWE at [FriendliAI](https://friendli.ai/)
+Software Engineer. Passionate homelabber.
 
+Works
+---
+* Software Engineer at [FriendliAI](https://friendli.ai/)
+* Software Engineer at [서울대학교 정보화본부](https://ist.snu.ac.kr/)
+---
 
 Education
 ---
@@ -17,11 +22,6 @@ Awards
 * Korea Olympiad in Informatics (2021), 1st Round, Silver
 * USA Computing Olympiad Gold
 
-Works
----
-* Software Engineer at [FriendliAI](https://friendli.ai/)
-* Software Engineer at [서울대학교 정보화본부](https://ist.snu.ac.kr/)(Service Contract Worker)
----
 
 Contact me at: [junukwon@snu.ac.kr](mailto:junukwon@snu.ac.kr)
 
