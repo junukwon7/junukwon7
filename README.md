@@ -5,7 +5,7 @@ Software Engineer. Passionate homelabber.
 Works
 ---
 * Software Engineer at [FriendliAI](https://friendli.ai/)
-* Software Engineer at [서울대학교 정보화본부](https://ist.snu.ac.kr/)
+* Software Engineer at [Seoul National University IST](https://ist.snu.ac.kr/)
 ---
 
 Education
